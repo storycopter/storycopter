@@ -73,7 +73,7 @@
     "babel-loader": "8.1.0",
     "babel-plugin-styled-components": "1.10.7",
     "concurrently": "5.1.0",
-    "electron": "8.0.0",
+    "electron": "9.4.0",
     "electron-builder": "22.6.0",
     "electron-notarize": "0.3.0",
     "eslint": "7.0.0",
